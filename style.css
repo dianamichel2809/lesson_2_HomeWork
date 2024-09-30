@@ -1,0 +1,30 @@
+html, body{
+    margin: 0;
+    padding: 0px;
+}
+table {    
+    width: 50%;
+    margin: 40px 30px 40px 30px;
+    text-align: center;
+    border-collapse: collapse;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);  
+    background: #E1E3E0;
+    border-radius: 35px;
+    }
+    th {
+    font-size: 22px;
+    font-weight: 300;
+    padding: 15px 10px;
+    border-bottom: 5px solid #F56433;
+    color: #F56433;
+    }
+    td {
+    padding: 10px;
+    color: #8D8173;
+    }
+    td:hover{
+        background-color: #f4f4f4;
+        cursor: pointer;
+    }
+    
+  
